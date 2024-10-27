@@ -33,7 +33,7 @@ A Node.js-based REST API that provides OCR (Optical Character Recognition) capab
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tesseract-ocr-api.git
+   git clone https://github.com/raunakca077/VisionGroup-IITD-OCR-APIs.git
    cd Backend
    ```
 
