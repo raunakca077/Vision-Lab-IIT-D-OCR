@@ -33,8 +33,8 @@ A Node.js-based REST API that provides OCR (Optical Character Recognition) capab
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tesseract-ocr-api.git
-   cd Backend
+   git clone https://github.com/raunakca077/VisionGroup-IITD-OCR-APIs.git
+   cd VisionGroup-IITD-OCR-APIs
    ```
 
 2. Install dependencies:
@@ -129,4 +129,4 @@ npm test
 
 Raunak Kumar - raunakchouhans22@gmail.com
 
-Project Link: [https://github.com/your-username/tesseract-ocr-api](https://github.com/your-username/tesseract-ocr-api)
+Project Link: [https://github.com/raunakca077/VisionGroup-IITD-OCR-APIs](https://github.com/raunakca077/VisionGroup-IITD-OCR-APIs)
