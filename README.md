@@ -34,7 +34,7 @@ A Node.js-based REST API that provides OCR (Optical Character Recognition) capab
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/tesseract-ocr-api.git
-   cd tesseract-ocr-api
+   cd Backend
    ```
 
 2. Install dependencies:
@@ -98,7 +98,7 @@ Extracts bounding boxes for specified elements in the image.
 ```json
 {
   "success": true,
-  "boxes": [
+  "bboxes": [
     {
       "text": "Example",
       "bbox": {
@@ -120,23 +120,6 @@ Run the test suite:
 npm test
 ```
 
-Run tests with coverage report:
-```bash
-npm run test:coverage
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Tesseract.js](https://github.com/naptha/tesseract.js) for providing the OCR engine
@@ -144,6 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📮 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Raunak Kumar - raunakchouhans22@gmail.com
 
 Project Link: [https://github.com/your-username/tesseract-ocr-api](https://github.com/your-username/tesseract-ocr-api)
