@@ -61,7 +61,7 @@ A Node.js-based REST API that provides OCR (Optical Character Recognition) capab
 
 ## 📊 Project Structure
 ```
-iitDelhiTask/
+VisionGroup-IITD-OCR-APIs/
 ├── Backend/
 │   ├── assets/
 │   │   └── images/
@@ -72,8 +72,8 @@ iitDelhiTask/
 │   │   └── ocrRoutes.js         # API route definitions
 │   ├── test/
 │   │   └── index.test.js        # Test suite
-│   ├── index.js                 # Main application entry
-│   └── package.json             # Project dependencies
+│ ── index.js                  # Main application entry
+│ ── package.json             # Project dependencies
 ```
 
 ## 🔌 API Endpoints
