@@ -1,0 +1,28 @@
+{
+  "name": "tesseract-ocr-server",
+  "version": "1.0.0",
+  "description": "This Assignment is for IIT DELHI vision group",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./Backend/index.js",
+    "test": "npx mocha ./Backend/test/*.test.js"
+
+  },
+  "author": "Raunak Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "jsdom": "^25.0.1",
+    "multer": "^1.4.5-lts.1",
+    "node-gyp": "^10.2.0",
+    "node-tesseract-ocr": "^2.2.1",
+    "tesseract.js": "^5.1.1"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "chai-http": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
