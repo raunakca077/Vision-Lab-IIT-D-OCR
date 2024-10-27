@@ -59,6 +59,21 @@ A Node.js-based REST API that provides OCR (Optical Character Recognition) capab
    npm start
    ```
 
+## 📊 Project Structure
+iitDelhiTask/
+├── Backend/
+│   ├── assets/
+│   │   └── images/
+│   │       └── test-image.png
+│   ├── controllers/
+│   │   └── ocrController.js
+│   ├── routes/
+│   │   └── ocrRoutes.js
+│   ├── test/
+│   │   └── index.test.js
+│   ├── index.js
+│   └── package.json
+
 ## 🔌 API Endpoints
 
 ### Extract Text
