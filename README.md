@@ -129,4 +129,4 @@ npm test
 
 Raunak Kumar - raunakchouhans22@gmail.com
 
-Project Link: [https://github.com/your-username/tesseract-ocr-api](https://github.com/your-username/tesseract-ocr-api)
+Project Link: [https://github.com/raunakca077/VisionGroup-IITD-OCR-APIs](https://github.com/raunakca077/VisionGroup-IITD-OCR-APIs)
