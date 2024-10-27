@@ -64,15 +64,15 @@ iitDelhiTask/
 ├── Backend/
 │   ├── assets/
 │   │   └── images/
-│   │       └── test-image.png
+│   │       └── test-image.png    # Sample image for testing
 │   ├── controllers/
-│   │   └── ocrController.js
+│   │   └── ocrController.js      # OCR logic implementation
 │   ├── routes/
-│   │   └── ocrRoutes.js
+│   │   └── ocrRoutes.js         # API route definitions
 │   ├── test/
-│   │   └── index.test.js
-│   ├── index.js
-│   └── package.json
+│   │   └── index.test.js        # Test suite
+│   ├── index.js                 # Main application entry
+│   └── package.json             # Project dependencies
 
 ## 🔌 API Endpoints
 
