@@ -4,7 +4,7 @@ import { getBboxes, getText } from '../controllers/ocrController.js';
 
 const router = express.Router();
 
-const img = multer({ dest: 'Backend/assets/images/' });
+const img = multer({ dest: 'Backend/assets/' });
 
 router.post('/get-bboxes', img.single('image'), getBboxes);
 router.post('/get-text', img.single('image'), getText);
