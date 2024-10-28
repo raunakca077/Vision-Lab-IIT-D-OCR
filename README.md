@@ -136,6 +136,10 @@ Run the test suite:
 npm test
 ```
 
+## Video Link (youtube)
+
+-[https://youtu.be/CqbPXF9toVE](https://youtu.be/CqbPXF9toVE)
+
 ## 🙏 Acknowledgments
 
 - [Tesseract.js](https://github.com/naptha/tesseract.js) for providing the OCR engine
