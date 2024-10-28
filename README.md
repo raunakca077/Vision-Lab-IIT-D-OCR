@@ -64,7 +64,6 @@ A Node.js-based REST API that provides OCR (Optical Character Recognition) capab
 VisionGroup-IITD-OCR-APIs/
 ├── Backend/
 │   ├── assets/
-│   │   └── images/
 │   │       └── test-image.png    # Sample image for testing
 │   ├── controllers/
 │   │   └── ocrController.js      # OCR logic implementation
@@ -72,8 +71,8 @@ VisionGroup-IITD-OCR-APIs/
 │   │   └── ocrRoutes.js         # API route definitions
 │   ├── test/
 │   │   └── index.test.js        # Test suite
-│ ── index.js                  # Main application entry
-│ ── package.json             # Project dependencies
+│   ├── index.js                  # Main application entry
+├── package.json             # Project dependencies
 ```
 
 ## 🔌 API Endpoints
